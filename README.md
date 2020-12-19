@@ -7,6 +7,4 @@ I'm Matt. Just a guy in InfoSec trying to:
   - Magic
 
 
-As Maverick once said:
-> Sorry Goose,
-> but it's time to buzz the tower. 
+
