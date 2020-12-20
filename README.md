@@ -11,7 +11,7 @@
   - Motorium    -  -  -  **OK**
 
   Activating MAIN AI NETWORK....
-  -  Progress: **100%**
+  Progress: **100%**
   
 Main Program Loop Stable
 No Errors Found
