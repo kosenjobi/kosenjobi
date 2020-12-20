@@ -1,4 +1,4 @@
-<p style="color:#00FF00>*Collect sub-programs and begin master compile? (Y/N)*</p> : **Y**
+*Collect sub-programs and begin master compile? (Y/N)* : **Y**
 
   ** Loading AI components **
 
