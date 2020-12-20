@@ -15,6 +15,6 @@
   *Progress:* **100%**
   
 *Main Program Loop Stable*
-<p>No Errors Found</P>
+**<p>No Errors Found</P>**
 
   **CONCIOUSNESS.DAT Stable**
